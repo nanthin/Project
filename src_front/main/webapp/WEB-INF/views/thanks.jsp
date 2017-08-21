@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>THANK YOU VISIT AGAIN !!!!!!!!!</h3>
+<h3>THANK YOU VISIT AGAIN </h3>
 </body>
 </html>
